@@ -1,3 +1,6 @@
+# Home
+- Forum: http://forums.xgecu.com/viewthread.php?tid=694
+
 # Comparison:
 - [Xgecu TL866II Plus vs T48 vs T56](https://youtu.be/42VCmOVWAyc)
 
