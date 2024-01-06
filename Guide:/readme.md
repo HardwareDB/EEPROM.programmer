@@ -1,0 +1,1 @@
+- [LFC#187 - Using an EZP2019 USB Programmer to Flash BIOS chips](https://youtu.be/YFZlRyxuIV8)
