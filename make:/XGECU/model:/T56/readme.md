@@ -7,6 +7,11 @@ sch: https://www.google.com/search?q=xgecu+t56
 - [Xgecu TL866II Plus vs T48 vs T56](https://youtu.be/42VCmOVWAyc)
 
 # Marketplace:
+## official Distributor:
+- $109! https://www.hklrf.com/XGecu-T56-Programmer-Support-NANDEMMCMCUISP_5253.html
+
+
+## other
 T56 with no adapters
 - $160 https://www.amazon.com/XGecu-Universal-Programmer-Drivers-Support/dp/B086JW5PPB
 
