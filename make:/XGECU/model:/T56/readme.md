@@ -11,7 +11,7 @@ Forum: http://forums.xgecu.com/redirect.php?tid=19
 
 # Marketplace:
 ## official Distributor:
-- $114! https://www.hklrf.com/XGecu-T56-Programmer-Support-NANDEMMCMCUISP_5253.html
+- $114! [XGecu T56 Programmer Support NAND/EMMC/MCU/ISP](https://www.hklrf.com/XGecu-T56-Programmer-Support-NANDEMMCMCUISP_5253.html)
 
 
 ## other
