@@ -1,5 +1,8 @@
 sch: https://www.google.com/search?q=xgecu+t56
 
+# Home:
+Forum: http://forums.xgecu.com/redirect.php?tid=19
+
 # Teardown:
 - [Xgecu T56 programmer teardown and review](https://youtu.be/PHD7OXDYzrQ)
 
