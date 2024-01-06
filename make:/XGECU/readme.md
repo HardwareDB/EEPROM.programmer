@@ -5,4 +5,4 @@ http://www.xgecu.com/en/
 ## [Dealer and Distributor List](http://www.xgecu.com/en/TL866_Dealer.html)
 
 # Evoked!
-$114 [XGecu T56 Programmer Support NAND/EMMC/MCU/ISP](https://www.hklrf.com/XGecu-T56-Programmer-Support-NANDEMMCMCUISP_5253.html)
+T48 [Xgecu TL866II Plus vs T48 vs T56](https://youtu.be/42VCmOVWAyc)
