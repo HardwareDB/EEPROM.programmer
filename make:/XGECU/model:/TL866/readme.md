@@ -1,4 +1,4 @@
-sch: https://www.google.com/search?q=tl866+programmer
+sch: https://www.google.com/search?q=tl866+programmer, https://www.google.com/search?q=TL866-G3
 
 # Market
 https://www.aliexpress.com/w/wholesale-tl866.html
