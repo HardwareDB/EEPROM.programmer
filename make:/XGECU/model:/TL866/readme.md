@@ -2,6 +2,7 @@ sch: https://www.google.com/search?q=tl866+programmer
 
 # Market
 https://www.aliexpress.com/w/wholesale-tl866.html
+- $40 https://www.aliexpress.com/i/3256805239124564.html
 - https://www.aliexpress.us/item/3256805115961301.html
 - https://www.aliexpress.us/item/2251832791921568.html
 - https://www.aliexpress.us/item/3256804311667046.html
