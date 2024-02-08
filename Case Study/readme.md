@@ -1,0 +1,1 @@
+- [Reverse Engineering and reprogramming the EEPROM in an APC Symmetra LX UPS to get it running again!](https://youtu.be/i9vt6FvZUfI)
